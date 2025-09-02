@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+hubspot-api-client
+simplejson
+pytz
