@@ -11,8 +11,8 @@ import numpy as np
 st.set_page_config(layout="wide", page_title="GS KR Sales Dashboard (Demo)")
 
 # --- 담당자 리스트 ---
-BDR_NAMES = ['Sohee (Blair) Kim', 'Soorim Yu', 'Gyeol Jang', 'Minyoung Kim', 'Hyewon Han','Minjeong Jang','Chanwoo Bae']
-AE_NAMES = ['Seheon Bok', 'Buheon Shin', 'Ethan Lee', 'Iseul Lee', 'Samin Park', 'Haran Bae']
+BDR_NAMES = ['BDR A', 'BDR B', 'BDR C', 'BDR D', 'BDR E','BDR F','BDR G']
+AE_NAMES = ['AE A', 'AE B', 'AE C', 'AE D', 'AE E', 'AE F']
 ALL_PICS = ['All'] + sorted(BDR_NAMES + AE_NAMES)
 
 # --- Deal Stage ID 매핑 (실제 값 대신 이름 사용) ---
